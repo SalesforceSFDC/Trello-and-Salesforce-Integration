@@ -5,3 +5,5 @@
 https://trello.com/guide
 
 https://www.cloudpipes.com/integrations/salesforce/trello
+
+https://automate.io/app/bots/install/trello/salesforce/new-card/addContact?newuser=true
